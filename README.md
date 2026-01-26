@@ -34,15 +34,24 @@
 | Project | Description |
 |---------|-------------|
 | [**Mutational Signature Analysis (hEMD)**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Novel EMD-based patient clustering using hierarchical etiology-aware distances for cancer mutational signatures |
-| [**MPN vs AML Classification**](https://github.com/rcwang2024/Proj_MPN_vs_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
+| [**MPN vs AML Classification**](https://github.com/rcwang2024/Proj_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
+| [**Metabolomics Pattern Analysis**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Identification of metabolic patterns and biomarkers |
+| [**Transcriptomics Signatures**](https://github.com/rcwang2024/Proj_Transcriptomics_Signatures) | Discovery and validation of gene expression signatures |
+| [**Clinical Prediction Models**](https://github.com/rcwang2024/Proj_Prediction_Models) | Machine learning models for clinical outcome prediction |
+| [**MutSig Distance Comparison**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmarking various distance metrics for mutational signature analysis |
 
 ### 📚 Learning & Resources
 
 | Repository | Description |
 |------------|-------------|
-| [**ML_Algorithms**](https://github.com/rcwang2024/ML_Algorithms) | Comprehensive ML learning: 38 notebooks covering 147+ topics from fundamentals to cutting-edge |
-| [**Bioinformatics Practice**](https://github.com/rcwang2024/Bioinformatics_practice) | Bioinformatics analysis scripts and workflows |
-| [**Mathematics for ML**](https://github.com/rcwang2024/Mathematics_for_ML) | Mathematical foundations for machine learning |
+| [**ML_Algorithms**](https://github.com/rcwang2024/ML_Algorithms) | 🌟 Comprehensive ML learning: 38 notebooks covering 147+ topics from fundamentals to cutting-edge |
+| [**Bioinformatics Practice**](https://github.com/rcwang2024/Bioinformatics_practice) | Bioinformatics analysis scripts, pipelines, and workflows |
+| [**Mathematics for ML**](https://github.com/rcwang2024/Mathematics_for_ML) | Mathematical foundations for machine learning (Linear Algebra, Calculus, Prob/Stat) |
+| [**Python Notes**](https://github.com/rcwang2024/Notes_on_Python) | In-depth Python programming notes and code snippets |
+| [**R Notes**](https://github.com/rcwang2024/Notes_on_R) | R programming references and statistical analysis examples |
+| [**Linux & Git**](https://github.com/rcwang2024/Notes_on_LinuxGit) | Mastery of command line tools and version control systems |
+| [**AWS Cloud**](https://github.com/rcwang2024/Notes_on_AWS) | Notes on cloud computing services and deployment |
+| [**SQL**](https://github.com/rcwang2024/Notes_on_SQL) | Database management and query optimization |
 
 ## 📈 GitHub Stats
 
