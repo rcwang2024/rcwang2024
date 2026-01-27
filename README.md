@@ -37,7 +37,6 @@
 | [**MPN vs AML Classification**](https://github.com/rcwang2024/Proj_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
 | [**Metabolomics Pattern Analysis**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Identification of metabolic patterns and biomarkers |
 | [**Transcriptomics Signatures**](https://github.com/rcwang2024/Proj_Transcriptomics_Signatures) | Discovery and validation of gene expression signatures |
-| [**Clinical Prediction Models**](https://github.com/rcwang2024/Proj_Prediction_Models) | Machine learning models for clinical outcome prediction |
 | [**MutSig Distance Comparison**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmarking various distance metrics for mutational signature analysis |
 
 ### 📚 Learning & Resources
