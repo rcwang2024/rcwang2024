@@ -34,7 +34,7 @@
 | Project | Description |
 |---------|-------------|
 | [**Mutational Signature Analysis (hEMD)**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Novel EMD-based patient clustering using hierarchical etiology-aware distances for cancer mutational signatures |
-| [**MPN vs AML Classification**](https://github.com/rcwang2024/Proj_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
+| [**Project_AML classification**](https://github.com/rcwang2024/Proj_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
 | [**Metabolomics Pattern Analysis**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Identification of metabolic patterns and biomarkers |
 | [**Transcriptomics Signatures**](https://github.com/rcwang2024/Proj_Transcriptomics_Signatures) | Discovery and validation of gene expression signatures |
 | [**MutSig Distance Comparison**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmarking various distance metrics for mutational signature analysis |
