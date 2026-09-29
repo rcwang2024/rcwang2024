@@ -41,7 +41,7 @@ Full list with links: **[research-projects](https://github.com/rcwang2024/resear
 
 ### 🛠️ Side project
 
-[**PaperSort**](https://github.com/rcwang2024/PaperSort) 🔒 — desktop app that organises research papers by topic and generates mind-maps and summaries with a **local LLM** (Ollama); Electron front end, Python back end.
+[**PaperSort**](https://github.com/rcwang2024/PaperSort) — desktop app that organises research papers by topic and generates mind-maps and summaries with a **local LLM** (Ollama); Electron front end, Python back end.
 
 ### 📚 Learning in public
 
