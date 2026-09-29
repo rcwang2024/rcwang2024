@@ -1,72 +1,41 @@
-# 👋 Hi, I'm Ruichao Wang
+## Hi, I'm Ruichao Wang 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruichao-wang-6b40861b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rcwang2024&style=for-the-badge&color=blue" alt="Profile views"/>
-</p>
+**Data Scientist · Computational Biology** at the Joint Research Center for Computational Biomedicine, University Hospital RWTH Aachen, Germany.
 
-## 🎯 About Me
+I build statistical and machine-learning methods for **cancer genomics** and **metabolomics** — turning large, messy
+multi-omics cohorts into biologically meaningful patient stratification and biomarkers.
 
-🔬 **Data Scientist** at Uniklinik RWTH Aachen, Germany  
-🧬 Specializing in **Computational Biology** & **Bioinformatics**  
-🤖 Passionate about applying **Machine Learning** to healthcare and cancer research  
-📚 Believer in "Learning by Doing" — using output to push input
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-## 📊 Featured Projects
-
-### 🧬 Research Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Mutational Signature Analysis (hEMD)**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Novel EMD-based patient clustering using hierarchical etiology-aware distances for cancer mutational signatures |
-| [**Project_AML classification**](https://github.com/rcwang2024/Proj_AML) | Transcriptomic differential expression and trajectory analysis for myeloid malignancies |
-| [**Metabolomics Pattern Analysis**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Identification of metabolic patterns and biomarkers |
-| [**Transcriptomics Signatures**](https://github.com/rcwang2024/Proj_Transcriptomics_Signatures) | Discovery and validation of gene expression signatures |
-| [**MutSig Distance Comparison**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmarking various distance metrics for mutational signature analysis |
-
-### 📚 Learning & Resources
-
-| Repository | Description |
-|------------|-------------|
-| [**ML_Algorithms**](https://github.com/rcwang2024/ML_Algorithms) | 🌟 Comprehensive ML learning: 38 notebooks covering 147+ topics from fundamentals to cutting-edge |
-| [**Bioinformatics Practice**](https://github.com/rcwang2024/Bioinformatics_practice) | Bioinformatics analysis scripts, pipelines, and workflows |
-| [**Mathematics for ML**](https://github.com/rcwang2024/Mathematics_for_ML) | Mathematical foundations for machine learning (Linear Algebra, Calculus, Prob/Stat) |
-| [**Python Notes**](https://github.com/rcwang2024/Notes_on_Python) | In-depth Python programming notes and code snippets |
-| [**R Notes**](https://github.com/rcwang2024/Notes_on_R) | R programming references and statistical analysis examples |
-| [**Linux & Git**](https://github.com/rcwang2024/Notes_on_LinuxGit) | Mastery of command line tools and version control systems |
-| [**AWS Cloud**](https://github.com/rcwang2024/Notes_on_AWS) | Notes on cloud computing services and deployment |
-| [**SQL**](https://github.com/rcwang2024/Notes_on_SQL) | Database management and query optimization |
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcwang2024&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcwang2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-## 💡 Philosophy
-
-> *"Knowledge is objective; how knowledge is handled is dynamic and variable."*
-
-> *"If you want to know whether you understand something, create something by yourself."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruichao%20Wang-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruichao-wang-6b40861b1/)
+![Location](https://img.shields.io/badge/Aachen-Germany-555)
 
 ---
 
-<p align="center">
-  ⭐ If you find my repositories helpful, please consider starring them!
-</p>
+### 🔬 Research projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Mutational Signature Exposure EMD**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Etiology-aware Earth Mover's Distance (hEMD) for clustering cancer patients by mutational-signature exposures (TCGA, Hartwig) | Python · optimal transport · clustering |
+| [**Distance Analysis of Mutational Signatures**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmark of 7 distance metrics for assigning noisy/new signatures to the COSMIC catalogue · *ISMB/ECCB 2023 poster* | Python · simulation · evaluation |
+| [**Metabolomic Signatures of T2D Progression**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Biomarkers, stage classification and correlation-network re-wiring from NGT to type 2 diabetes in KORA S4/F4, replicated in Fenland | R · ML classifiers · differential correlation |
+| **Molecular Subtyping in AML** *(manuscript in preparation)* | Multi-omics subtypes of acute myeloid leukemia (BeatAML, TCGA, TARGET) and their value for predicting drug response | R · Python · survival & classifier models |
+
+### 📚 Learning in public
+
+| Repository | Content |
+|---|---|
+| [ML_Algorithms](https://github.com/rcwang2024/ML_Algorithms) | Classical ML → deep learning → transformers, GNNs, RL — notebooks from foundations to cutting edge |
+| [Mathematics_for_ML](https://github.com/rcwang2024/Mathematics_for_ML) | Linear algebra, probability, optimization, information theory … measure theory, with code |
+| [Bioinformatics_practice](https://github.com/rcwang2024/Bioinformatics_practice) | Genomics, transcriptomics and proteomics workflows and pipelines |
+| [Notes_on_Python](https://github.com/rcwang2024/Notes_on_Python) · [Notes_on_R](https://github.com/rcwang2024/Notes_on_R) | Python and R for data science and computational biology |
+| [Notes_on_LinuxGit](https://github.com/rcwang2024/Notes_on_LinuxGit) · [Notes_on_AWS](https://github.com/rcwang2024/Notes_on_AWS) | Command line, version control and cloud for research computing |
+
+### 🛠️ Toolbox
+
+- **Languages:** Python · R · SQL · Bash
+- **ML / stats:** scikit-learn · PyTorch · XGBoost · caret · survival analysis · optimal transport
+- **Omics:** mutational signatures (COSMIC) · RNA-seq · targeted metabolomics · TCGA / Hartwig / BeatAML / KORA
+- **Engineering:** Git · Linux · Docker · AWS · Jupyter
+
+---
+
+> *"If you want to know whether you understand something, create something by yourself."*
