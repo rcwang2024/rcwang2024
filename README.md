@@ -20,17 +20,17 @@ turning large patient cohorts into biologically meaningful stratification, bioma
 |---|---|---|
 | [**Mutational Signature Exposure EMD**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Etiology-aware Earth Mover's Distance (hEMD) for clustering cancer patients by mutational-signature exposures (TCGA, Hartwig) | Python · optimal transport · clustering |
 | [**Distance Analysis of Mutational Signatures**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmark of 7 distance metrics for assigning noisy or novel signatures to the COSMIC catalogue · *ISMB/ECCB 2023 poster* | Python · simulation · benchmarking |
-| **Lineage state & venetoclax response in AML** 🔒 | Transcriptomic lineage states in BeatAML and their association with ex vivo venetoclax response, beyond somatic mutations; 7 data resources, 3,182 patients | R · Python · consensus clustering · survival |
-| **Multi-omics stratification of hormone-driven cancers** 🔒 | Similarity Network Fusion of 5 omics layers across 2,104 BRCA, OV, UCEC and PRAD patients; subtypes, regulatory networks, interactive dashboard | Python · SNF · lifelines · Streamlit |
+| [**Lineage state & venetoclax response in AML**](https://github.com/rcwang2024/aml-lineage-venetoclax) 🔒 | Transcriptomic lineage states in BeatAML and their association with ex vivo venetoclax response, beyond somatic mutations; 7 data resources, 3,182 patients | R · Python · consensus clustering · survival |
+| [**Multi-omics stratification of hormone-driven cancers**](https://github.com/rcwang2024/MultiOmics_Integration_Hormone_Driven_Cancers) 🔒 | Similarity Network Fusion of 5 omics layers across 2,104 BRCA, OV, UCEC and PRAD patients; subtypes, regulatory networks, interactive dashboard | Python · SNF · lifelines · Streamlit |
 
 **🩸 Metabolomics & type 2 diabetes** — KORA S4/F4 cohorts (Helmholtz Munich)
 
 | Project | Summary | Stack |
 |---|---|---|
-| **Doctoral thesis: metabolomics of prediabetes & T2D** 🔒 | Whether one lipid–amino-acid signature predicts glycaemia, separates diabetes stages, and re-wires its correlation structure as disease develops | R · regression · ML classifiers · differential correlation |
-| **Metabolic distance-from-health** 🔒 | A geometric view of the T2D continuum: Mahalanobis distance from metabolic health, stage distributions, pseudotime and Wasserstein geometry | Python · optimal transport |
+| [**Doctoral thesis: metabolomics of prediabetes & T2D**](https://github.com/rcwang2024/thesis-analysis-code) 🔒 | Whether one lipid–amino-acid signature predicts glycaemia, separates diabetes stages, and re-wires its correlation structure as disease develops | R · regression · ML classifiers · differential correlation |
+| [**Metabolic distance-from-health**](https://github.com/rcwang2024/metabolic-distance-kora) 🔒 | A geometric view of the T2D continuum: Mahalanobis distance from metabolic health, stage distributions, pseudotime and Wasserstein geometry | Python · optimal transport |
 
-🔒 Private until publication or restricted by cohort data-use agreements — code available on request.
+🔒 Private repository (until publication, or restricted by cohort data-use agreements) — the link opens only for collaborators; code available on request.
 Full list with links: **[research-projects](https://github.com/rcwang2024/research-projects)**.
 
 ### 📄 Publications & presentations
@@ -41,7 +41,7 @@ Full list with links: **[research-projects](https://github.com/rcwang2024/resear
 
 ### 🛠️ Side project
 
-**PaperSort** 🔒 — desktop app that organises research papers by topic and generates mind-maps and summaries with a **local LLM** (Ollama); Electron front end, Python back end.
+[**PaperSort**](https://github.com/rcwang2024/PaperSort) 🔒 — desktop app that organises research papers by topic and generates mind-maps and summaries with a **local LLM** (Ollama); Electron front end, Python back end.
 
 ### 📚 Learning in public
 
