@@ -16,7 +16,7 @@ multi-omics cohorts into biologically meaningful patient stratification and biom
 |---|---|---|
 | [**Mutational Signature Exposure EMD**](https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD) | Etiology-aware Earth Mover's Distance (hEMD) for clustering cancer patients by mutational-signature exposures (TCGA, Hartwig) | Python · optimal transport · clustering |
 | [**Distance Analysis of Mutational Signatures**](https://github.com/rcwang2024/Proj_MutSig_distance_comparison) | Benchmark of 7 distance metrics for assigning noisy/new signatures to the COSMIC catalogue · *ISMB/ECCB 2023 poster* | Python · simulation · evaluation |
-| [**Metabolomic Signatures of T2D Progression**](https://github.com/rcwang2024/Proj_Metabolomics_Pattern) | Biomarkers, stage classification and correlation-network re-wiring from NGT to type 2 diabetes in KORA S4/F4, replicated in Fenland | R · ML classifiers · differential correlation |
+| **Metabolomic Signatures of T2D Progression** *(code available on request — cohort data under DUA)* | Biomarkers, stage classification and correlation-network re-wiring from NGT to type 2 diabetes in KORA S4/F4, replicated in Fenland | R · ML classifiers · differential correlation |
 | **Molecular Subtyping in AML** *(manuscript in preparation)* | Multi-omics subtypes of acute myeloid leukemia (BeatAML, TCGA, TARGET) and their value for predicting drug response | R · Python · survival & classifier models |
 
 ### 📚 Learning in public
