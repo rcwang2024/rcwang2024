@@ -7,7 +7,7 @@ turning large patient cohorts into biologically meaningful stratification, bioma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruichao%20Wang-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruichao-wang-6b40861b1/)
 ![Location](https://img.shields.io/badge/Aachen-Germany-555)
-[![Research projects](https://img.shields.io/badge/📂_Research_projects-9-2E7D32)](https://github.com/rcwang2024/research-projects)
+[![Research projects](https://img.shields.io/badge/📂_Research_projects-8-2E7D32)](https://github.com/rcwang2024/research-projects)
 [![Learning in public](https://img.shields.io/badge/📚_Learning_in_public-7-6A1B9A)](https://github.com/rcwang2024/learning-in-public)
 
 ---
